@@ -1,1 +1,1 @@
-FROM quay.io/prometheus/alertmanager:v0.13.0
+FROM quay.io/coreos/prometheus-config-reloader:v0.0.2
