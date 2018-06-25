@@ -1,1 +1,1 @@
-from gcr.io/google_containers/kubernetes-dashboard-amd64:v1.8.3
+from k8s.gcr.io/kubernetes-dashboard-amd64:v1.8.3
