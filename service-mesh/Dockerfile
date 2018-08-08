@@ -1,1 +1,1 @@
-FROM  gcr.io/linkerd-io/web:v18.8.1
+FROM  gcr.io/linkerd-io/controller:v18.8.1
