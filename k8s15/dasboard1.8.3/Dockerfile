@@ -1,1 +1,1 @@
-from gcr.io/google_containers/kubernetes-dashboard-amd64:v1.15.3
+from gcr.io/google_containers/kubernetes-dashboard-amd64:v2.0.0
